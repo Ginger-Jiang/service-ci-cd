@@ -206,5 +206,3 @@ echo 'Hello World'
 - 变更查询 Job Configuration History
 
 - 实时的执行任务的节点名称：built-on-column
-
-## jenkins 与 gitee 码云配合
